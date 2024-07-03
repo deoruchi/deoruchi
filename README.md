@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Nodesjs and Express JS**
+- 🌱 I’m currently learning **AWS and its services**
 
 - 💬 Ask me about **React,Javascript,Html,Css**
 
 - 📫 How to reach me **deor04467@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JkrdlpLTskjtW42q_LrLhyk6mycqpw0t/view?usp=sharing](https://drive.google.com/file/d/1JkrdlpLTskjtW42q_LrLhyk6mycqpw0t/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JkrdlpLTskjtW42q_LrLhyk6mycqpw0t/view?usp=sharing]([https://drive.google.com/file/d/1JkrdlpLTskjtW42q_LrLhyk6mycqpw0t/view?usp=sharing](https://drive.google.com/file/d/1hktP9_acGjqznJQt2bCQumITmtdHEQug/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
