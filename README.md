@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **AWS and its services**
-
 - 💬 Ask me about **React,Javascript,Html,Css**
 
 - 📫 How to reach me **deor04467@gmail.com**
