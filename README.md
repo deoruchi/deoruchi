@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **deor04467@gmail.com**
 
-- 📄 Know about my experiences [resume]([https://drive.google.com/file/d/1_tUcum6i23Cl_AJrOOsRFrYSMoU_MCX8/view?usp=drive_link](https://drive.google.com/file/d/1_tUcum6i23Cl_AJrOOsRFrYSMoU_MCX8/view?usp=drive_link))
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1_tUcum6i23Cl_AJrOOsRFrYSMoU_MCX8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
