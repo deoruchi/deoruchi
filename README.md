@@ -24,7 +24,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ruchi-deo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruchi-deo/" height="30" width="40" /></a> : Formals 
 
   
-   <a href="https://twitter.com/simple_smile9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simple_smile9" height="30" width="40" /></a> : Hanging out , attending tech space, check some geeks tweets and adding some of mine [hehe 😄😄]. Do say hi to me here.
+   <a href="https://twitter.com/simple_smile9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simple_smile9" height="30" width="40" /></a> : Hanging out , attending tech spaces, checking some geeky tweets and adding some of mine [hehe!!😄😄]. Do say "Hi" to me here.
 
 </p>
 
